@@ -1,0 +1,15 @@
+*{
+    /* margin: 0; */
+}
+.main{
+    display: flex;
+    gap: 10px;
+}
+.main .box {
+        width: 30%;
+        background-color: beige;
+        padding: 15px;
+        border-radius: 10px;
+        border: 2px solid black;
+        
+}

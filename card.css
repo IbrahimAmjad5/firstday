@@ -1,0 +1,27 @@
+.main{
+      display: flex;
+      gap: 5px;
+}
+.main .card{
+    padding: 15px;
+    border-radius: 20px;
+    border: 5px solid skyblue;
+    background-color: bisque;
+}
+.main .card .profileMain{
+    display: flex;
+    gap: 20px;
+}
+.main .card .profile{
+    height: 80px;
+    width: 80px;
+    background-color: azure;
+    border-radius: 50%;
+   border: 2px solid black;
+
+}
+.main .card .profile .image{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
